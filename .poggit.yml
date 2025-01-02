@@ -6,4 +6,6 @@ projects:
   DoubleDoors:
     path: ""
     icon: "icon.png"
+    lint:
+      phpstan: false 
 ...
