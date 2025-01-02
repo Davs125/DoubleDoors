@@ -1,0 +1,6 @@
+# DoubleDoors Configuration
+enableRecursiveOpening: true
+recursiveOpeningMaxBlocksDistance: 10
+enableDoors: true
+enableFenceGates: true
+enableTrapdoors: true
